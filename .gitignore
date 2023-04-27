@@ -1,3 +1,18 @@
+target/
+.bsp/
+.idea/
+*.sw?
+.DS_Store
+
+# Ignore [ce]tags files
+tags
+
+# Metals
+.metals
+.bloop
+metals.sbt
+.vscode
+
 # Local .terraform directories
 **/.terraform/*
 
